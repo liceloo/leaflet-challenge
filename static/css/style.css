@@ -8,3 +8,24 @@ body,
 html {
   height: 100%;
 }
+
+.leaflet-popup-content {
+  text-align: center;
+}
+
+.legend{
+  padding: 8px;
+  background: white;
+  background: rgba(255, 255, 255, 0.8);
+  line-height: 35px;
+  font-size: 18px;
+  color: #000000;
+  font-family: serif;
+}
+.legend i {
+  padding: 0px;
+  width: 35px;
+  height: 35px;
+  float: left;
+  opacity: 0.9;
+}
